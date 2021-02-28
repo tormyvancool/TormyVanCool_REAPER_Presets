@@ -5,5 +5,5 @@ Anything that can improve operational workflow in Reaper. This directory is upda
 
 LIST:
 -
-builtin_video_processor.ini contains:
-* Video COLOR TEXT: you can have taxt and background colored
+builtin_video_processor.ini it should be installed in _REAPER/presets_ contains:
+* Video COLOR TEXT: in videoprocessor, you can have colored text and background
